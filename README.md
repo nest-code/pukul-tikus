@@ -1,6 +1,6 @@
 # pukul-tikus
-# Ngoding Bareng - Game Pukul Tikus (Javascript)
-# Web Programing Unpas
+Ngoding Bareng - Game Pukul Tikus (Javascript)
+Web Programing Unpas
 HTML
 CSS
 Javascript
